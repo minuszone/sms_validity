@@ -1,3 +1,5 @@
 {
-    "rbcl":[1]
+    "rbcl":{
+        "licence_status":1
+    }
 }
